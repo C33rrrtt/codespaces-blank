@@ -1,4 +1,4 @@
-Skip to content
+S
 
 JW.ORG
 Change site languageLog In (opens new window)
@@ -189,7 +189,9 @@ jobs:
                                           uses: actions/checkout@v3
                                                 - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
                                                       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-                                                            - name: List files in the repository
+                                                            - name: List files in the https://c33rrrtt-jubilant-computing-machine-jx6wv9p7jj7cj69.github.dev/6df5c074200ad111dafqb93788cd5ccb10e252343https://github.com/C33rrrtt/codespaces-blank/commit/2815383728b2757306a74b67b9e2c1cc75a4egit remote add origin git@github.com:C33rrrtt/Christopher-Cornelius-pease-.git
+                                                            git branch -M main
+                                                            git push -u origin mainrepository
                                                                     run: |
                                                                               ls ${{ github.workspace }}
                                                                                     - run: echo "🍏 This job's status is ${{ job.status }}."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https://atlanta.craigslist.org/atl/trp/d/atlanta-65-71cpm-otr-company-drivers/7622215783.htmlhttps://earth.app.goo.gl/?apn=com.google.earth&isi=293622097&ius=googleearth&link=https%3a%2f%2fearth.google.com%2fweb%2f%4041.15881622,-74.25506408,206.74059431a,1717.75938172d,35y,133.64809312h,0t,0r1268 Sanders Dr, Lake City, GA 30260https://www.jw.org/finder?wtlocale=E&docid=502014114&srcid=share1 Kings Dr, Tuxedo Park, NYIPv4 : 172.56.68.18 IPv6 : 2607:fb90:d740:cd73:ac39:8931:b04b:5430 1 Kings Dr, Tuxedo Park, NY 10987IPv4 : 172.56.68.18 IPv6 : 2607:fb90:d740:cd73:ac39:8931:b04b:5430 IPv4 : 172.56.68.18 IPv6 : 2607:fb90:d740:cd73:ac39:8931:b04b:5430https://www.jw.org/finder?wtlocale=E&docid=502014114&srcid=shareIPv4 : 172.56.68.18 IPv6 : 2607:fb90:d740:cd73:ac39:8931:b04b:5430 https://earth.app.goo.gl/?apn=com.google.earth&isi=293622097&ius=googleearth&link=https%3a%2f%2fearth.google.com%2fweb%2f%4041.15881622,-74.25506408,206.74059431a,1717.75938172d,35y,133.64809312h,0t,0r1268 Sanders Dr, Lake City, GA 30260https://www.jw.org/finder?wtlocale=E&docid=502014114&srcid=share1 Kings Dr, Tuxedo Park, NYIPv4 : 172.56.68.18 IPv6 : 2607:fb90:d740:cd73:ac39:8931:b04b:5430 1 Kings Dr, Tuxedo Park, NY 10987IPv4 : 172.56.68.18 IPv6 : 2607:fb90:d740:cd73:ac39:8931:b04b:5430 IPv4 : 172.56.68.18 IPv6 : 2607:fb90:d740:cd73:ac39:8931:b04b:54301 Kings Dr, Tuxedo Park, NYIPv4 : 172.56.68.18 IPv6 : 2607:fb90:d740:cd73:ac39:8931:b04b:5430 https://www.jw.org/finder?wtlocale=E&docid=502014114&srcid=share1 Kings Dr, Tuxedo Park, NY 109876319 Veracruse Dr
